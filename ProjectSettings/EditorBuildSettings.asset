@@ -5,7 +5,19 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/2DPlatformer/_Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/2DPlatformer/_Scenes/Button_Feature.unity
+    guid: 8faad6b9bac58de44be1565104f36d68
+  - enabled: 1
+    path: Assets/2DPlatformer/_Scenes/ButtonScene1.unity
+    guid: 07072e15323fab74aadd3c604305355a
+  - enabled: 1
+    path: Assets/2DPlatformer/_Scenes/ButtonScene2.unity
+    guid: 5a1c1d314aac8e0499ebb8f714c56c57
+  - enabled: 1
+    path: Assets/2DPlatformer/_Scenes/ButtonScene3.unity
+    guid: 5f343cc768c30d349aeea61cff9f5c60
   m_configObjects: {}
