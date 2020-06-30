@@ -1,3 +1,9 @@
 /[Ii]Ignored_Folder/
 /[Ll]ibrary/
 /[Ll]ogs/
+/[Oo]bj/
+
+.vs/
+
+*.sln
+*.csproj
