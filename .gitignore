@@ -1,8 +1,10 @@
-/[Ii]Ignored_Folder/
 /[Ll]ibrary/
-/[Ll]ogs/
+/[Tt]emp/
 /[Oo]bj/
-/obj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
 
 .vs/
 
